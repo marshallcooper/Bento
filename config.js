@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Marshall',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'Speed Dial',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'anybox://collection/BB74FD76-58AB-4DF0-A5A6-E7AE243D44ED',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://google.com/mail',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Work Bookmarks',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'anybox://heading/CE557608-03C2-42B6-BD61-2E117E73DEE5',
 		},
 		{
 			id: '4',
