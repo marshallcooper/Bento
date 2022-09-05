@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Video',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'anybox://collection/AE8B0A4C-E42E-4CB4-BFFC-6A4CE0C45C55',
 		},
 	],
 
