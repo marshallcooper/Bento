@@ -25,16 +25,6 @@ const CONFIG = {
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
-	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
-
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
-
 	// Autochange
 	autoChangeTheme: true,
 
@@ -139,20 +129,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Focus',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1DX0wMD4IoQ5aJ?si=7b5b58a4acc24c23',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Relax',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj?si=914823375f994eb8',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Jazz',
+					link: 'https://open.spotify.com/playlist/1CksxUkRgzXNJOTHh32M6J?si=5f74fca06ee2416f',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hip Hop',
+					link: 'https://open.spotify.com/playlist/613vUvdUwVm2K3cWmD03jk?si=0ea4fd3de3a14a79',
 				},
 			],
 		},
